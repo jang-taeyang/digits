@@ -12,4 +12,4 @@ For details, please see http://ics-software-engineering.github.io/nextjs-applica
 
 [Experience Next.js Digits 5](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-3/experience-nextjs-digits-5.html)
 
-[Experience Next.js Digits 6](http://courses.ics.hawaii.edu/ics314/ics314s25/morea/nextjs-3/experience-nextjs-digits-6.html)
+[Experience Next.js Digits 6](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-3/experience-nextjs-digits-6.html)
