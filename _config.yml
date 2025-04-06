@@ -3,6 +3,8 @@ description: A template for quickly starting Digits application development
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
+url: https://jang-taeyang.github.io/digits
+
 
 gems:
   - jekyll-mentions
