@@ -1,5 +1,5 @@
-title: digits
-description: A template for quickly starting Digits application development
+title: Digits
+description: A quick guideline for starting the Digits application development
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
